@@ -1,0 +1,14 @@
+c:\users\abdullah zakaria\documents\visual studio 2015\Projects\trial project\trial project\bin\Debug\trial project.exe.config
+c:\users\abdullah zakaria\documents\visual studio 2015\Projects\trial project\trial project\bin\Debug\trial project.exe
+c:\users\abdullah zakaria\documents\visual studio 2015\Projects\trial project\trial project\bin\Debug\trial project.pdb
+c:\users\abdullah zakaria\documents\visual studio 2015\Projects\trial project\trial project\obj\Debug\trial project.csprojResolveAssemblyReference.cache
+c:\users\abdullah zakaria\documents\visual studio 2015\Projects\trial project\trial project\obj\Debug\MainWindow.g.cs
+c:\users\abdullah zakaria\documents\visual studio 2015\Projects\trial project\trial project\obj\Debug\App.g.cs
+c:\users\abdullah zakaria\documents\visual studio 2015\Projects\trial project\trial project\obj\Debug\trial project_MarkupCompile.cache
+c:\users\abdullah zakaria\documents\visual studio 2015\Projects\trial project\trial project\obj\Debug\trial project_MarkupCompile.lref
+c:\users\abdullah zakaria\documents\visual studio 2015\Projects\trial project\trial project\obj\Debug\MainWindow.baml
+c:\users\abdullah zakaria\documents\visual studio 2015\Projects\trial project\trial project\obj\Debug\trial project.g.resources
+c:\users\abdullah zakaria\documents\visual studio 2015\Projects\trial project\trial project\obj\Debug\trial_project.Properties.Resources.resources
+c:\users\abdullah zakaria\documents\visual studio 2015\Projects\trial project\trial project\obj\Debug\trial project.csproj.GenerateResource.Cache
+c:\users\abdullah zakaria\documents\visual studio 2015\Projects\trial project\trial project\obj\Debug\trial project.exe
+c:\users\abdullah zakaria\documents\visual studio 2015\Projects\trial project\trial project\obj\Debug\trial project.pdb
